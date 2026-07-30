@@ -1,4 +1,4 @@
-````markdown
+
 <p align="center">
   <img src="assets/logo/logo.svg" alt="Frontend Engineering Playbook Logo" width="150">
 </p>
@@ -255,4 +255,4 @@ Passionate about building scalable frontend applications, mentoring developers, 
 <p align="center">
 ⭐ If this repository helps you, consider giving it a Star!
 </p>
-````
+
