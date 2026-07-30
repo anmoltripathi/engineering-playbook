@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/logo/logo.svg" alt="Frontend Engineering Playbook Logo" width="150">
+  <img src="assets/logo/logo.svg" alt="Frontend Engineering Playbook Logo" width="180">
 </p>
 
 <h1 align="center">Frontend Engineering Playbook</h1>
