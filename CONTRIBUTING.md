@@ -47,6 +47,16 @@ Examples:
 
 ---
 
+## Creating a New Article
+
+1. Copy `templates/article-template.md`
+2. Rename it using the repository naming convention.
+3. Fill in the metadata.
+4. Write the content.
+5. Update the corresponding `CURRICULUM.md` if needed.
+
+---
+
 # Commit Message Convention
 
 Use conventional commits.
