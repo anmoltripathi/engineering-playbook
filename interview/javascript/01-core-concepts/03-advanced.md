@@ -1,6 +1,57 @@
-
-
 ### 🟠 Advanced
+
+> **Module:** JavaScript
+>
+> **Topic:** Core Concepts
+>
+> **Level:** Advanced
+>
+> **Interview Frequency:** ⭐⭐⭐⭐☆
+>
+> **Estimated Reading Time:** 60–90 Minutes
+>
+> **Expected Experience:** 4–8+ Years
+
+---
+
+## Learning Path
+
+Frontend Engineering Playbook
+
+└── Interview
+
+&nbsp;&nbsp;&nbsp;&nbsp;└── JavaScript
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Core Concepts
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── 🟠 Advanced
+
+---
+
+# Overview
+
+This chapter explores the internal mechanisms that make JavaScript performant and memory-efficient.
+
+Instead of focusing on language syntax, you'll learn how JavaScript engines optimize code execution, manage memory, and handle runtime behavior.
+
+These concepts are frequently discussed in senior frontend and full-stack interviews, especially when evaluating a candidate's understanding of JavaScript internals and performance optimization.
+
+---
+
+# Topics Covered
+
+| Category | Topics |
+|----------|--------|
+| Memory Management | Garbage Collection, Mark-and-Sweep, Memory Leaks |
+| DOM Memory | Detached DOM Elements, Circular References |
+| Engine Optimizations | Hidden Classes, Inline Cache, Deoptimization |
+| Runtime Internals | Call Stack, Memory Heap, Single Thread, Event Loop (Introduction) |
+| JavaScript Quirks | `typeof null`, `[] == false`, Floating Point Precision, BigInt Limitations |
+
+
+---
+
+# Interview Questions
 
 ### Memory Management
 

@@ -2,6 +2,92 @@
 
 # Scenario-Based Questions
 
+> **Module:** JavaScript
+>
+> **Topic:** Core Concepts
+>
+> **Level:** Mixed
+>
+> **Interview Frequency:** ⭐⭐⭐⭐⭐
+>
+> **Estimated Reading Time:** 30–45 Minutes
+>
+> **Target Audience:** Frontend Developers, Full Stack Developers, Senior Engineers
+
+---
+
+## Learning Path
+
+Frontend Engineering Playbook
+
+└── Interview
+
+&nbsp;&nbsp;&nbsp;&nbsp;└── JavaScript
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Core Concepts
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── 🎯 Scenario-Based Questions
+
+---
+
+# Overview
+
+Technical interviews don't just evaluate your knowledge of JavaScript—they also assess how you approach real-world engineering problems.
+
+This chapter contains scenario-based interview questions that simulate discussions commonly held during frontend and full-stack interviews. These questions evaluate problem-solving, debugging, decision-making, communication, engineering judgment, and practical experience.
+
+Focus on explaining **why** you would take a particular approach, not just **what** you would do.
+
+---
+
+## 💼 Best For
+
+- Frontend Developers
+- React Developers
+- Angular Developers
+- Vue Developers
+- Full Stack Developers
+- Senior Engineers
+- Technical Leads
+
+---
+
+# Interview Focus Areas
+
+| Area | Description |
+|------|-------------|
+| Debugging | Identifying and resolving production issues |
+| Performance | Finding bottlenecks and optimization strategies |
+| Memory | Investigating memory leaks and excessive usage |
+| Code Quality | Reviews, refactoring, maintainability |
+| Team Collaboration | Mentoring, communication, engineering decisions |
+| Architecture | Selecting technologies and evaluating trade-offs |
+
+---
+
+# Scenario-Based Questions
+
+<!-- Scenario Questions -->
+
+---
+
+# How to Answer Scenario Questions
+
+During interviews, avoid jumping directly to the solution.
+
+A good response generally follows this structure:
+
+1. Understand the problem.
+2. Ask clarifying questions if needed.
+3. Explain your reasoning.
+4. Discuss possible approaches and trade-offs.
+5. Recommend the most appropriate solution.
+6. Mention how you would validate the result.
+
+Interviewers often evaluate your thought process more than the final answer.
+
+---
+
 <details>
 <summary><strong>You join a project where developers frequently use <code>==</code> instead of <code>===</code>. How would you handle it?</strong></summary>
 
@@ -167,6 +253,13 @@ These topics form the foundation of most JavaScript interviews.
 
 </details>
 
+---
+
+# Congratulations 🎉
+
+You have completed the **JavaScript Core Concepts** module.
+
+Continue your journey with the next module:
 
 ---
 
@@ -175,3 +268,4 @@ These topics form the foundation of most JavaScript interviews.
 ⬅️ Previous: [06. Coading](./06-coding.md)
 
 🏠 Home: [Core Concepts](./README.md)
+

@@ -1,5 +1,60 @@
 ### 🟢 JavaScript Core Concepts — Beginner
 
+> **Module:** JavaScript
+>
+> **Topic:** Core Concepts
+>
+> **Level:** Beginner
+>
+> **Interview Frequency:** ⭐⭐⭐⭐⭐
+>
+> **Estimated Reading Time:** 45–60 Minutes
+>
+> **Expected Experience:** 0–2 Years (Also asked in experienced interviews)
+
+---
+
+# Overview
+
+Welcome to the **Beginner** chapter of JavaScript Core Concepts.
+
+This chapter builds the foundation required to understand JavaScript before moving to advanced topics such as Execution Context, Scope, Closures, Prototypes, and Asynchronous JavaScript.
+
+Although these questions are classified as "Beginner," they are frequently asked in interviews for developers with **0–10+ years of experience**. Interviewers often begin with these fundamentals before progressing to more advanced concepts.
+
+Mastering this chapter will help you confidently answer the most common introductory JavaScript interview questions.
+
+---
+
+# Topics Covered
+
+This chapter covers the following topics:
+
+- JavaScript Introduction
+- History of JavaScript
+- Why JavaScript was Created
+- JavaScript Features
+- JavaScript vs Java
+- JavaScript vs TypeScript
+- JavaScript vs ECMAScript
+- ECMAScript Versions
+- Language Basics
+- Identifiers
+- Keywords
+- Reserved Keywords
+- Literals
+- Statements
+- Expressions
+- Comments
+- Semicolons
+- Strict Mode
+- Unicode
+- Escape Characters
+
+---
+
+# Interview Questions
+
 <details>
 <summary><strong>What is JavaScript?</strong></summary>
 

@@ -1,6 +1,61 @@
-
-
 ### 🟡 Intermediate
+
+> **Module:** JavaScript
+>
+> **Topic:** Core Concepts
+>
+> **Level:** Intermediate
+>
+> **Interview Frequency:** ⭐⭐⭐⭐⭐
+>
+> **Estimated Reading Time:** 60–90 Minutes
+>
+> **Expected Experience:** 2–5+ Years
+
+---
+
+## Learning Path
+
+Frontend Engineering Playbook
+
+└── Interview
+
+&nbsp;&nbsp;&nbsp;&nbsp;└── JavaScript
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Core Concepts
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── 🟡 Intermediate
+
+---
+
+# Overview
+
+This chapter explores how JavaScript works behind the scenes.
+
+Rather than focusing on language syntax, you'll learn how JavaScript engines execute code, manage memory, perform type conversions, and optimize application performance.
+
+These concepts are commonly discussed in technical interviews for frontend, full-stack, and JavaScript developer roles. A solid understanding of these topics will make advanced concepts such as Execution Context, Closures, Event Loop, and Async Programming much easier to understand.
+
+---
+
+# Topics Covered
+
+This chapter covers the following topics:
+
+| Category | Topics |
+|----------|--------|
+| JavaScript Engine | Engine, V8, SpiderMonkey, JavaScriptCore, Chakra |
+| Runtime | Runtime, Browser Runtime, Node.js Runtime |
+| Execution Pipeline | Parsing, AST, JIT, Bytecode, Machine Code |
+| Memory | Stack, Heap, Primitive, Reference |
+| Type System | typeof, instanceof, Object.is(), ==, === |
+| Data Types | Number, String, Boolean, Null, Undefined, Symbol, BigInt |
+
+---
+
+# Interview Questions
+
+---
 
 <details>
 <summary><strong>What is a JavaScript Engine?</strong></summary>

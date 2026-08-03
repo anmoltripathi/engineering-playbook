@@ -2,7 +2,78 @@
 
 # Coding Questions
 
-## Easy
+> **Module:** JavaScript
+>
+> **Topic:** Core Concepts
+>
+> **Level:** Beginner → Advanced
+>
+> **Interview Frequency:** ⭐⭐⭐⭐⭐
+>
+> **Estimated Reading Time:** 60–90 Minutes
+>
+> **Target Audience:** Frontend Developers, Full Stack Developers, JavaScript Interview Preparation
+
+---
+
+## Learning Path
+
+Frontend Engineering Playbook
+
+└── Interview
+
+&nbsp;&nbsp;&nbsp;&nbsp;└── JavaScript
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Core Concepts
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── 💻 Coding Questions
+
+---
+
+# Overview
+
+This chapter contains practical JavaScript coding questions commonly asked during technical interviews.
+
+Unlike the previous chapters that focus on theoretical concepts, this section emphasizes problem-solving, coding ability, and explaining your thought process.
+
+Questions are grouped by difficulty to help you build confidence progressively.
+
+---
+
+## 💼 Best For
+
+- Frontend Developers
+- React Developers
+- Angular Developers
+- Vue Developers
+- Full Stack Developers
+- JavaScript Interview Preparation
+
+---
+
+# Difficulty Levels
+
+| Level | Description |
+|--------|-------------|
+| 🟢 Easy | Basic syntax, variables, operators, data types |
+| 🟡 Medium | Objects, Arrays, Functions, Equality, Type Conversion |
+| 🔴 Hard | Memory, Engine Concepts, Polyfills, Deep Cloning, Performance |
+
+---
+
+
+# Coding Interview Tips
+
+- Read the problem completely before coding.
+- Clarify assumptions with the interviewer.
+- Explain your approach before writing code.
+- Start with a simple solution, then optimize if needed.
+- Think about edge cases.
+- Use meaningful variable names.
+- Discuss time and space complexity when appropriate.
+- Test your solution with sample inputs.
+
+---
 
 <details>
 <summary><strong>Write a program to swap two variables.</strong></summary>

@@ -1,5 +1,70 @@
 ### ⚫ Architect
 
+
+> **Module:** JavaScript
+>
+> **Topic:** Core Concepts
+>
+> **Level:** Architect
+>
+> **Interview Frequency:** ⭐⭐⭐☆☆
+>
+> **Estimated Reading Time:** 25–35 Minutes
+>
+> **Target Audience:** Staff Engineers, Principal Engineers, Technical Architects, Engineering Managers
+
+---
+
+## Learning Path
+
+Frontend Engineering Playbook
+
+└── Interview
+
+&nbsp;&nbsp;&nbsp;&nbsp;└── JavaScript
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Core Concepts
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ⚫ Architect
+
+---
+
+# Overview
+
+This chapter focuses on architectural thinking rather than language syntax.
+
+Architect-level interviews assess your ability to make technical decisions, evaluate trade-offs, design scalable systems, establish engineering standards, and guide teams building large JavaScript applications.
+
+The emphasis is on **why** a particular approach is chosen rather than **how** to write the code.
+
+---
+
+## 💼 Best For
+
+- Technical Architects
+- Staff Engineers
+- Principal Engineers
+- Engineering Managers
+- Senior Frontend Engineers
+- Senior Full Stack Engineers
+
+---
+
+# Topics Covered
+
+| Category | Topics |
+|----------|--------|
+| Technology Decisions | Choosing JavaScript, TypeScript, Framework Selection |
+| Architecture | Modular Design, Scalable Applications, Monorepos |
+| Performance | Optimization Strategy, Monitoring, Performance Budgets |
+| Engineering Standards | Coding Standards, Reviews, Documentation |
+| Team Leadership | Mentoring, Knowledge Sharing, Technical Direction |
+| Long-Term Maintainability | Dependency Management, Refactoring, Technical Debt |
+
+---
+
+# Interview Questions
+
 <details>
 <summary><strong>Why would you choose JavaScript for a large-scale enterprise application?</strong></summary>
 
