@@ -1,3 +1,9 @@
+<p align="center">
+
+<img src="../../../assets/banners/javascript/core-concepts.png" width="100%">
+
+</p>
+
 # JavaScript Core Concepts
 
 > **Module:** JavaScript  
