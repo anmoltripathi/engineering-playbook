@@ -14,6 +14,21 @@ keywords:
 last_updated: 2026-07-31
 ---
 
+## In This Article
+
+- Overview
+- Learning Objectives
+- What is HTML?
+- How HTML Works
+- First HTML Document
+- Best Practices
+- Common Mistakes
+- Interview Questions
+- Exercises
+- Summary
+
+---
+
 # What is HTML?
 
 > Learn what HTML is, why it exists, how browsers use it, and why it remains the foundation of every modern website.
@@ -326,24 +341,197 @@ Understanding HTML is therefore essential, regardless of the framework you choos
 
 # Interview Questions
 
-## Beginner
+## Beginner Level
 
-1. What does HTML stand for?
-2. What is HTML?
-3. Is HTML a programming language?
-4. What is the purpose of HTML?
+### 1. What does HTML stand for?
 
-## Intermediate
+<details>
+<summary>Show Answer</summary>
 
-1. Explain the responsibilities of HTML, CSS, and JavaScript.
-2. What happens after a browser receives an HTML document?
-3. What is the DOM?
+**HTML** stands for **HyperText Markup Language**.
 
-## Advanced
+- **HyperText** refers to text connected through hyperlinks.
+- **Markup** refers to tags that describe the structure of content.
+- **Language** refers to the standardized syntax understood by web browsers.
 
-1. Why is semantic HTML important?
-2. How does HTML contribute to accessibility?
-3. How do modern frameworks use HTML?
+HTML is used to structure content on web pages.
+
+</details>
+
+---
+
+### 2. What is HTML?
+
+<details>
+<summary>Show Answer</summary>
+
+HTML (HyperText Markup Language) is the standard markup language used to create and structure web pages.
+
+It defines elements such as:
+
+- Headings
+- Paragraphs
+- Images
+- Links
+- Forms
+- Tables
+- Lists
+
+HTML describes the **structure** of content, while CSS controls presentation and JavaScript controls behavior.
+
+</details>
+
+---
+
+### 3. Is HTML a programming language?
+
+<details>
+<summary>Show Answer</summary>
+
+No.
+
+HTML is a **markup language**, not a programming language.
+
+Programming languages support concepts such as:
+
+- Variables
+- Loops
+- Functions
+- Conditions
+- Algorithms
+
+HTML simply describes the structure and meaning of content.
+
+</details>
+
+---
+
+### 4. What is the purpose of HTML?
+
+<details>
+<summary>Show Answer</summary>
+
+The primary purpose of HTML is to provide structure and meaning to web content.
+
+It allows browsers, search engines, and assistive technologies to correctly understand and display information.
+
+</details>
+
+---
+
+## Intermediate Level
+
+### 5. Explain the responsibilities of HTML, CSS, and JavaScript.
+
+<details>
+<summary>Show Answer</summary>
+
+| Technology | Responsibility |
+|------------|----------------|
+| HTML | Structure |
+| CSS | Presentation |
+| JavaScript | Behavior |
+
+A complete webpage combines all three technologies to deliver a rich user experience.
+
+</details>
+
+---
+
+### 6. What happens after a browser receives an HTML document?
+
+<details>
+<summary>Show Answer</summary>
+
+The browser follows these steps:
+
+1. Downloads the HTML document.
+2. Parses the HTML.
+3. Builds the DOM (Document Object Model).
+4. Downloads CSS files.
+5. Builds the CSSOM.
+6. Combines the DOM and CSSOM into the Render Tree.
+7. Calculates layout.
+8. Paints pixels to the screen.
+9. Executes JavaScript.
+
+</details>
+
+---
+
+### 7. What is the DOM?
+
+<details>
+<summary>Show Answer</summary>
+
+The DOM (Document Object Model) is a tree-like representation of an HTML document created by the browser.
+
+JavaScript interacts with the DOM to read, modify, add, or remove elements dynamically.
+
+</details>
+
+---
+
+## Advanced Level
+
+### 8. Why is semantic HTML important?
+
+<details>
+<summary>Show Answer</summary>
+
+Semantic HTML improves:
+
+- Accessibility
+- SEO
+- Maintainability
+- Code readability
+
+Examples of semantic elements include:
+
+- `<header>`
+- `<main>`
+- `<article>`
+- `<section>`
+- `<nav>`
+- `<footer>`
+
+</details>
+
+---
+
+### 9. How does HTML contribute to accessibility?
+
+<details>
+<summary>Show Answer</summary>
+
+HTML improves accessibility by providing meaningful structure.
+
+Examples include:
+
+- Proper heading hierarchy
+- Form labels
+- Alt text for images
+- Semantic elements
+- Keyboard-friendly navigation
+
+Assistive technologies such as screen readers rely on semantic HTML.
+
+</details>
+
+---
+
+### 10. How do modern frameworks use HTML?
+
+<details>
+<summary>Show Answer</summary>
+
+Frameworks such as React, Angular, Vue, and Svelte generate or work with HTML.
+
+Although developers may write JSX, templates, or components, browsers ultimately render standard HTML.
+
+Understanding HTML remains essential regardless of the framework.
+
+</details>
 
 ---
 
@@ -394,15 +582,18 @@ Use only HTML.
 
 ---
 
-# Related Articles
+## Related Articles
 
-- HTML-01-002 — History of HTML
-- HTML-01-003 — How the Web Works
-- HTML-02-001 — DOCTYPE
-- HTML-02-002 — HTML Element
+- [HTML-01-002 – History of HTML](HTML-01-002-history-of-html.md)
+- [HTML-02-001 – DOCTYPE](../02-document-structure/HTML-02-001-doctype.md)
+- [HTML-02-002 – HTML Element](../02-document-structure/HTML-02-002-html-element.md)
 
 ---
 
-# Next Article
+## Continue Learning
 
-➡ **HTML-01-002 — History of HTML**
+| Previous | Module | Next |
+|----------|--------|------|
+| — | [🏠 HTML Module](../README.md) | [HTML-01-002 – History of HTML](HTML-01-002-history-of-html.md) |
+
+---
