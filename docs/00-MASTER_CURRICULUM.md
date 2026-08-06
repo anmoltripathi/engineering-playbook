@@ -1,4 +1,4 @@
-# Frontend Engineering Playbook
+# Engineering Playbook
 
 > **Master Curriculum v1.0**
 >
@@ -8,7 +8,7 @@
 
 # 🎯 Vision
 
-The Frontend Engineering Playbook is not just a collection of articles.
+The Engineering Playbook is not just a collection of articles.
 
 It is a complete engineering knowledge system that combines:
 

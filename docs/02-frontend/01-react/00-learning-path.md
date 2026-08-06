@@ -2,7 +2,7 @@
 
 # 🗺️ React Learning Path
 
-### Frontend Engineering Playbook
+### Engineering Playbook
 
 **A structured roadmap from React fundamentals to enterprise architecture.**
 

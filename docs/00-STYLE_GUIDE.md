@@ -1,8 +1,8 @@
-# Frontend Engineering Playbook Style Guide
+# Engineering Playbook Style Guide
 
 > **Version:** 1.0
 >
-> This guide defines the writing, formatting, and documentation standards for the Frontend Engineering Playbook.
+> This guide defines the writing, formatting, and documentation standards for the Engineering Playbook.
 >
 > Every document, article, tutorial, cheatsheet, and project documentation must follow these standards.
 

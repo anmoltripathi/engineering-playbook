@@ -2,7 +2,7 @@
 
 > **Version:** 1.0
 >
-> The Frontend Engineering Playbook supports multiple learning journeys. Choose the path that best matches your goals.
+> The Engineering Playbook supports multiple learning journeys. Choose the path that best matches your goals.
 
 ---
 

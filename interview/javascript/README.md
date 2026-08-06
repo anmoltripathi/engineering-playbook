@@ -4,7 +4,7 @@
 
 # JavaScript Interview Handbook
 
-> **Module:** Frontend Engineering Playbook
+> **Module:** Engineering Playbook
 >
 > **Category:** Interview Preparation
 >
@@ -149,6 +149,6 @@ Contributions are welcome.
 
 ⬅️ Previous: [Interview Home](../README.md)
 
-🏠 Home: [Frontend Engineering Playbook](../../README.md)
+🏠 Home: [Engineering Playbook](../../README.md)
 
 ➡️ Start Learning: [Core Concepts](./01-core-concepts/README.md)

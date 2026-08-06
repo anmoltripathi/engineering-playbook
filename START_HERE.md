@@ -1,6 +1,6 @@
 # 🚀 Start Here
 
-Welcome to **Frontend Engineering Playbook (FEP)**.
+Welcome to **Engineering Playbook (FEP)**.
 
 If you're new to this repository, this guide will help you choose the right learning path based on your current experience and goals.
 
@@ -8,7 +8,7 @@ If you're new to this repository, this guide will help you choose the right lear
 
 # 🎯 What is FEP?
 
-Frontend Engineering Playbook is an open-source knowledge base that helps developers:
+Engineering Playbook is an open-source knowledge base that helps developers:
 
 * Learn modern frontend engineering
 * Build production-ready applications

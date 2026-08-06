@@ -2,7 +2,7 @@
 
 # 📘 React Fundamentals
 
-### Frontend Engineering Playbook
+### Engineering Playbook
 
 **Build a strong foundation before learning Hooks, State Management, or Advanced React.**
 

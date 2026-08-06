@@ -16,7 +16,7 @@
 
 ## Learning Path
 
-Frontend Engineering Playbook
+Engineering Playbook
 
 └── Interview
 

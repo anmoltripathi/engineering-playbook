@@ -16,7 +16,7 @@
 
 ## Learning Path
 
-Frontend Engineering Playbook
+Engineering Playbook
 
 └── Interview
 
@@ -1704,7 +1704,7 @@ The same code works across environments.
 ## 💻 Another Example
 
 ```javascript
-globalThis.appName = "Frontend Engineering Playbook";
+globalThis.appName = "Engineering Playbook";
 
 console.log(globalThis.appName);
 ```
@@ -1712,7 +1712,7 @@ console.log(globalThis.appName);
 Output
 
 ```text
-Frontend Engineering Playbook
+Engineering Playbook
 ```
 
 ---

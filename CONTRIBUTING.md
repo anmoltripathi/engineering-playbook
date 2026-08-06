@@ -1,6 +1,6 @@
 # 🤝 Contributing Guide
 
-Thank you for your interest in contributing to the **Frontend Engineering Playbook (FEP)**.
+Thank you for your interest in contributing to the **Engineering Playbook (EP)**.
 
 Our goal is to build one of the most practical and high-quality open-source resources for Frontend and Full Stack Engineers.
 

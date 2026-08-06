@@ -1,6 +1,6 @@
 # 🌐 Fundamentals
 
-Welcome to the **Fundamentals** section of the **Frontend Engineering Playbook**.
+Welcome to the **Fundamentals** section of the **Engineering Playbook**.
 
 This section builds the foundation required to become a professional Frontend or Full Stack Engineer. Every advanced topic in this repository—React, Angular, Next.js, FastAPI, System Design, Performance, and Architecture—depends on the concepts covered here.
 

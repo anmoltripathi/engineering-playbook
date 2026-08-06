@@ -2,7 +2,7 @@
 
 > **Version:** 1.0
 >
-> This glossary provides concise definitions of common software engineering terms used throughout the Frontend Engineering Playbook.
+> This glossary provides concise definitions of common software engineering terms used throughout the Engineering Playbook.
 >
 > Every technical article should reference these definitions instead of redefining common concepts.
 

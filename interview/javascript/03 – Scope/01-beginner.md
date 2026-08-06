@@ -16,7 +16,7 @@
 
 ## Learning Path
 
-Frontend Engineering Playbook
+Engineering Playbook
 
 └── Interview
 
@@ -1458,7 +1458,7 @@ A **Local Variable** is declared inside a Function Scope or Block Scope and is a
 ## 💻 Example
 
 ```javascript
-const appName = "Frontend Engineering Playbook";
+const appName = "Engineering Playbook";
 
 function showApp() {
     const version = "1.0";
@@ -1473,7 +1473,7 @@ showApp();
 Output
 
 ```text
-Frontend Engineering Playbook
+Engineering Playbook
 1.0
 ```
 

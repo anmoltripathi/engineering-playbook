@@ -1,10 +1,10 @@
 <p align="center">
 
-<img src="../../../assets/banners/react/react-banner.png" alt="Frontend Engineering Playbook React  Banner">
+<img src="../../../assets/banners/react/react-banner.png" alt="Engineering Playbook React  Banner">
 
 # ⚛ React
 
-### Frontend Engineering Playbook
+### Engineering Playbook
 
 **From Fundamentals to Enterprise Architecture**
 
@@ -27,7 +27,7 @@ React has become the industry standard for building modern web applications.
 
 Whether you're creating a personal portfolio, an enterprise dashboard, an e-commerce platform, or a SaaS application, React provides the flexibility and ecosystem needed to build scalable user interfaces.
 
-This section of the **Frontend Engineering Playbook** is designed to help you progress from learning your first React component to designing enterprise-grade React architectures used in production.
+This section of the **Engineering Playbook** is designed to help you progress from learning your first React component to designing enterprise-grade React architectures used in production.
 
 This is not just a React tutorial.
 

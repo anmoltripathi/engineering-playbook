@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="assets/logo/logo.svg" alt="Frontend Engineering Playbook Logo" width="180">
+  <img src="assets/logo/logo.svg" alt="Engineering Playbook Logo" width="180">
 </p>
 
-<h1 align="center">Frontend Engineering Playbook</h1>
+<h1 align="center">Engineering Playbook</h1>
 
 <p align="center">
   <strong>Learn • Build • Interview • Architect • Lead</strong>
@@ -14,14 +14,14 @@
 </p>
 
 <p align="center">
-  <img src="assets/banners/github-banner.png" alt="Frontend Engineering Playbook Banner">
+  <img src="assets/banners/github-banner.png" alt="Engineering Playbook Banner">
 </p>
 
 ---
 
 # 📖 About
 
-Frontend Engineering Playbook (FEP) is a comprehensive learning resource designed to help developers grow from beginner to lead engineer.
+Engineering Playbook (EP) is a comprehensive learning resource designed to help developers grow from beginner to lead engineer.
 
 Instead of focusing only on interview questions, this repository emphasizes:
 

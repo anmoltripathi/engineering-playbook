@@ -10,7 +10,7 @@
 
 > **📍 Location**
 >
-> Frontend Engineering Playbook
+> Engineering Playbook
 >
 > → Docs
 >
