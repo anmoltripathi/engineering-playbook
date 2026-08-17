@@ -1,10 +1,12 @@
 # 🌐 Fundamentals
 
-Welcome to the **Fundamentals** section of the **Engineering Playbook**.
+Welcome to the **Fundamentals** section of **Engineering Playbook (EP)**.
 
 This section builds the foundation required to become a professional Frontend or Full Stack Engineer. Every advanced topic in this repository—React, Angular, Next.js, FastAPI, System Design, Performance, and Architecture—depends on the concepts covered here.
 
-> **Recommendation:** Complete the topics in the suggested order before moving to the Frontend section.
+> **Status:** Early / mostly Planned. HTML has an introduction article; CSS, JavaScript, TypeScript, Browser, HTTP, and Git are still being built.
+>
+> **Recommendation:** When modules are ready, complete them in the suggested order. Until then, use the [JavaScript Interview Handbook](../../interview/javascript/README.md) for JS depth, then continue to [React](../02-frontend/01-react/README.md).
 
 ---
 
@@ -40,7 +42,7 @@ Topics include:
 * Media
 * Accessibility
 
-Status: 🚧 Coming Soon
+**Status:** Early — [HTML module](01-html/README.md)
 
 ---
 
@@ -59,7 +61,7 @@ Topics include:
 * Animations
 * CSS Architecture
 
-Status: 🚧 Coming Soon
+**Status:** Planned — [CSS module](02-css/README.md)
 
 ---
 
@@ -80,7 +82,7 @@ Topics include:
 * Performance
 * Advanced Concepts
 
-Status: 🚧 Coming Soon
+**Status:** Planned — [JavaScript module](03-javascript/README.md) · meanwhile use [JS Interview](../../interview/javascript/README.md)
 
 ---
 
@@ -98,7 +100,7 @@ Topics include:
 * Advanced Types
 * Best Practices
 
-Status: 🚧 Coming Soon
+**Status:** Planned — [TypeScript module](04-typescript/README.md)
 
 ---
 
@@ -117,7 +119,7 @@ Topics include:
 * Event Loop
 * Storage APIs
 
-Status: 🚧 Coming Soon
+**Status:** Planned — [Browser module](05-browser/README.md)
 
 ---
 
@@ -137,7 +139,7 @@ Topics include:
 * Caching
 * CORS
 
-Status: 🚧 Coming Soon
+**Status:** Planned (folder not created yet)
 
 ---
 
@@ -155,7 +157,7 @@ Topics include:
 * GitHub Workflow
 * Conflict Resolution
 
-Status: 🚧 Coming Soon
+**Status:** Planned (folder not created yet)
 
 ---
 
@@ -186,22 +188,21 @@ By the end of this section, you'll be able to build:
 
 ---
 
-# 🔗 Next Section
+# Next Section
 
-After completing **Fundamentals**, continue to:
+After Fundamentals (or while they are still planned), continue to:
 
-**📁 `docs/02-frontend/`**
-
-where you'll begin learning React, Angular, Next.js, performance optimization, accessibility, and modern frontend architecture.
+➡️ [Frontend](../02-frontend/README.md) · [React](../02-frontend/01-react/README.md)
 
 ---
 
-# 📖 Related Resources
+# Related Resources
 
-* START_HERE.md
-* ROADMAP.md
-* CONTRIBUTING.md
+* [START_HERE.md](../../START_HERE.md)
+* [Docs index](../README.md)
+* [ROADMAP.md](../../ROADMAP.md)
+* [CONTRIBUTING.md](../../CONTRIBUTING.md)
 
 ---
 
-Happy learning! 🚀
+Happy learning!

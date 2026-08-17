@@ -7,12 +7,23 @@ This roadmap tracks the long-term development of the project.
 # Phase 1 — Repository Foundation ✅
 
 * Repository Structure
-* Branding
+* Branding (EP)
 * README
 * START_HERE
 * ROADMAP
 * CONTRIBUTING
 * Templates
+
+---
+
+# Phase 1b — Navigation & Honesty ✅
+
+* Canonical entry funnel (README → START_HERE → docs index)
+* Docs index (`docs/README.md`) and Interview home (`interview/README.md`)
+* Real repository structure in README
+* Empty stage hubs marked Planned
+* Available-now tracks called out honestly
+* Broken next/prev links and `03-scope` folder naming fixed
 
 ---
 
@@ -135,6 +146,7 @@ This roadmap tracks the long-term development of the project.
 | Version | Milestone              |
 | ------- | ---------------------- |
 | v0.1.0  | Repository Foundation  |
+| v0.1.1  | Navigation & Honesty   |
 | v0.2.0  | Fundamentals           |
 | v0.3.0  | TypeScript             |
 | v0.4.0  | React                  |

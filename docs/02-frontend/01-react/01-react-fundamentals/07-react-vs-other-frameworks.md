@@ -353,4 +353,4 @@ Next, you'll explore the **React Ecosystem** and learn about the libraries and t
 - ⬅ **Previous:** [06 - SPA vs MPA](06-spa-vs-mpa.md)
 - ⬆ **Module Home:** [React Fundamentals](README.md)
 - 🗺 **Learning Path:** [React Learning Path](../00-learning-path.md)
-- ➡ **Next:** [08 - Setting up React](08-setting-up-reactm.md)
+- ➡ **Next:** [08 - Setting up React](08-setting-up-react.md)

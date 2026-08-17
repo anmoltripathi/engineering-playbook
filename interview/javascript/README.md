@@ -45,10 +45,10 @@ Follow the modules in the order below.
 
 | # | Module | Status |
 |---|--------|:------:|
-| 00 | [Learning Roadmap](./00-learning-roadmap.md) | ✅ |
+| 00 | [Learning Roadmap](./00-learning-roadmap.md) | 🚧 |
 | 01 | [Core Concepts](./01-core-concepts/README.md) | ✅ |
-| 02 | [Execution Context](./02-execution-context/README.md) | 🚧 |
-| 03 | [Scope](./03-scope/README.md) | ⏳ |
+| 02 | [Execution Context](./02-execution-context/README.md) | ✅ |
+| 03 | [Scope](./03-scope/README.md) | ✅ |
 | 04 | [Hoisting](./04-hoisting/README.md) | ⏳ |
 | 05 | [Functions](./05-functions/README.md) | ⏳ |
 | 06 | [Closures](./06-closures/README.md) | ⏳ |
@@ -136,12 +136,10 @@ Contributions are welcome.
 
 # Related Modules
 
-- HTML Interview Handbook
-- CSS Interview Handbook
-- TypeScript Interview Handbook
-- React Interview Handbook
-- Browser Interview Handbook
-- Git Interview Handbook
+- [Interview track home](../README.md)
+- [Fundamentals → JavaScript (learn)](../../docs/01-fundamentals/03-javascript/README.md) *(Planned)*
+- [React (learn)](../../docs/02-frontend/01-react/README.md)
+- HTML / CSS / TypeScript / React Interview Handbooks *(Planned)*
 
 ---
 

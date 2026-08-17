@@ -265,7 +265,7 @@ Continue your journey with the next module:
 
 ## Navigation
 
-⬅️ Previous: [06. Coading](./06-coding.md)
+⬅️ Previous: [06. Coding Questions](./06-coding-questions.md)
 
 🏠 Home: [Core Concepts](./README.md)
 

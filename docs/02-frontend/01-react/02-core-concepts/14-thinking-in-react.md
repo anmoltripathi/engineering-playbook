@@ -1926,4 +1926,4 @@ Unlike many tutorials that teach Hooks immediately, you've first built a strong 
 
 - ⬅ **Previous:** [13 - Component Composition](13-component-composition.md)
 - ⬆ **Module Home:** [README.md](README.md)
-- ➡ **Next Module:** [React Hooks](../03-react-hooks/README.md)
+- ➡ **Next Module:** [React Hooks](../03-hooks/README.md) *(Planned)*

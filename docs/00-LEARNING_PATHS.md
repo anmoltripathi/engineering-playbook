@@ -2,7 +2,9 @@
 
 > **Version:** 1.0
 >
-> The Engineering Playbook supports multiple learning journeys. Choose the path that best matches your goals.
+> The Engineering Playbook (EP) supports multiple learning journeys. Choose the path that best matches your goals.
+
+> **Available now:** React Fundamentals + Core Concepts, and JavaScript Interview modules 01–03. Other stages below are the long-term map — see [docs/README.md](README.md).
 
 ---
 

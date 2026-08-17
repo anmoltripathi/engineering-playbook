@@ -223,4 +223,4 @@ Strong fundamentals remain valuable regardless of framework changes.
 
 🏠 Home: [Core Concepts](./README.md)
 
-➡️ Next: [06. Coding](./06-coding.md)
+➡️ Next: [06. Coding Questions](./06-coding-questions.md)

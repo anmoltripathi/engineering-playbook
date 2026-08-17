@@ -123,23 +123,35 @@ Architecture
 
 ---
 
+# Available now
+
+| Module | Status | Start |
+|--------|--------|-------|
+| [React Fundamentals](01-react-fundamentals/README.md) | Ready | [Module README](01-react-fundamentals/README.md) |
+| [Core Concepts](02-core-concepts/README.md) | Ready | [Module README](02-core-concepts/README.md) |
+| [Hooks](03-hooks/README.md) | Planned | Scaffold only |
+
+After Core Concepts, Hooks is the next planned module—not a dead end, but not written yet.
+
+---
+
 # Curriculum
 
-| Module | Description |
-|---------|-------------|
-| React Fundamentals | Learn what React is, why it exists, and how to start building applications |
-| Core Concepts | Understand JSX, Components, Props, State, Events, Rendering and Composition |
-| Hooks | Master built-in Hooks and create reusable custom Hooks |
-| Component Lifecycle | Learn how React renders, updates, and unmounts components |
-| Component Patterns | Discover reusable patterns for building maintainable applications |
-| State Management | Manage local, shared, and server state effectively |
-| Routing | Build navigation and routing for single-page applications |
-| Data Fetching | Work with REST APIs, GraphQL, caching, and asynchronous data |
-| Forms | Build accessible forms with validation and file uploads |
-| Performance | Optimize rendering, reduce re-renders, and improve application speed |
-| Testing | Write unit, integration, and end-to-end tests |
-| Production | Learn debugging, monitoring, deployment, logging, and production best practices |
-| Architecture | Design scalable enterprise React applications |
+| Module | Description | Status |
+|---------|-------------|--------|
+| [React Fundamentals](01-react-fundamentals/README.md) | Learn what React is, why it exists, and how to start building applications | Ready |
+| [Core Concepts](02-core-concepts/README.md) | Understand JSX, Components, Props, State, Events, Rendering and Composition | Ready |
+| [Hooks](03-hooks/README.md) | Master built-in Hooks and create reusable custom Hooks | Planned |
+| Component Lifecycle | Learn how React renders, updates, and unmounts components | Planned |
+| Component Patterns | Discover reusable patterns for building maintainable applications | Planned |
+| State Management | Manage local, shared, and server state effectively | Planned |
+| Routing | Build navigation and routing for single-page applications | Planned |
+| Data Fetching | Work with REST APIs, GraphQL, caching, and asynchronous data | Planned |
+| Forms | Build accessible forms with validation and file uploads | Planned |
+| Performance | Optimize rendering, reduce re-renders, and improve application speed | Planned |
+| Testing | Write unit, integration, and end-to-end tests | Planned |
+| Production | Learn debugging, monitoring, deployment, logging, and production best practices | Planned |
+| Architecture | Design scalable enterprise React applications | Planned |
 
 ---
 
@@ -272,14 +284,11 @@ React powers applications such as:
 
 # Related Sections
 
-Continue expanding your frontend engineering knowledge by exploring:
-
-- Frontend Fundamentals
-- TypeScript
-- State Management
-- Testing
-- System Design
-- Production Engineering
+- [Fundamentals](../../01-fundamentals/README.md)
+- [Frontend](../README.md)
+- [Docs index](../../README.md)
+- [JavaScript Interview](../../../interview/javascript/README.md)
+- [Learning Path](00-learning-path.md)
 
 ---
 
@@ -287,6 +296,6 @@ Continue expanding your frontend engineering knowledge by exploring:
 
 Ready to begin?
 
-➡ **Start with:** **01 - React Fundamentals**
+➡ **Start with:** [01 - React Fundamentals](01-react-fundamentals/README.md)
 
 Build a strong foundation before moving to the more advanced modules.

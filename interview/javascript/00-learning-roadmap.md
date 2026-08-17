@@ -1,41 +1,27 @@
-# Title
+# JavaScript Interview — Learning Roadmap
 
-## Overview
+**Status:** 🚧 In Progress (outline)
 
-## Learning Objectives
+This file will become the detailed study roadmap for the JavaScript Interview Handbook.
 
-## Prerequisites
+Until it is filled in, follow the module order in [README.md](README.md).
 
-## Topics Covered
+---
 
-## Detailed Concepts
+## Available now
 
-## Real-World Examples
+1. [Core Concepts](01-core-concepts/README.md)
+2. [Execution Context](02-execution-context/README.md)
+3. [Scope](03-scope/README.md)
 
-## Interview Questions
+## Planned
 
-### Beginner
+Modules 04–31 — see [README.md](README.md)
 
-### Intermediate
-
-### Advanced
-
-### Senior
-
-### Architect (where applicable)
-
-## Coding Questions
-
-## Scenario-Based Questions
-
-## Common Mistakes
-
-## Best Practices
-
-## Quick Revision Notes
-
-## Cheat Sheet
-
-## References
+---
 
 ## Navigation
+
+🏠 [JavaScript Interview Handbook](README.md)
+
+⬅️ [Interview Home](../README.md)

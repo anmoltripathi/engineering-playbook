@@ -81,16 +81,18 @@ Leadership
 
 | Module | Topics | Planned Articles | Status |
 |----------|---------|----------------:|--------|
-| 01 Fundamentals | HTML, CSS, JavaScript, TypeScript, Browser, HTTP, Git | 500+ | 🚧 |
-| 02 Frontend | React, Angular, Next.js, State Management, Accessibility | 700+ | 🚧 |
-| 03 Backend | Node.js, Express, FastAPI, Databases, Authentication | 500+ | 🚧 |
-| 04 Architecture | Clean Architecture, Patterns, SOLID, DDD | 300+ | 🚧 |
-| 05 Testing | Unit, Integration, E2E, Performance | 250+ | 🚧 |
-| 06 Cloud & DevOps | Docker, Kubernetes, CI/CD, AWS, Azure | 300+ | 🚧 |
-| 07 System Design | HLD, LLD, Scalability, Distributed Systems | 300+ | 🚧 |
-| 08 AI for Engineers | AI Tools, LLMs, Prompt Engineering, Agentic AI | 200+ | 🚧 |
-| 09 Career | Resume, Portfolio, Interviews, Communication | 150+ | 🚧 |
-| 10 Leadership | Mentoring, Architecture Decisions, Team Growth | 150+ | 🚧 |
+| 01 Fundamentals | HTML, CSS, JavaScript, TypeScript, Browser, HTTP, Git | 500+ | Early / Planned |
+| 02 Frontend | React, Angular, Next.js, State Management, Accessibility | 700+ | Partial (React Fundamentals + Core Concepts ready) |
+| 03 Backend | Node.js, Express, FastAPI, Databases, Authentication | 500+ | Planned |
+| 04 Architecture | Clean Architecture, Patterns, SOLID, DDD | 300+ | Planned |
+| 05 Testing | Unit, Integration, E2E, Performance | 250+ | Planned |
+| 06 Cloud & DevOps | Docker, Kubernetes, CI/CD, AWS, Azure | 300+ | Planned |
+| 07 System Design | HLD, LLD, Scalability, Distributed Systems | 300+ | Planned |
+| 08 AI for Engineers | AI Tools, LLMs, Prompt Engineering, Agentic AI | 200+ | Planned |
+| 09 Career | Resume, Portfolio, Interviews, Communication | 150+ | Planned |
+| 10 Leadership | Mentoring, Architecture Decisions, Team Growth | 150+ | Planned |
+
+See [docs/README.md](README.md) for **Available now**.
 
 ---
 
@@ -362,13 +364,15 @@ Estimated Articles: **150+**
 
 # Progress Dashboard
 
-| Category | Planned | Completed |
+| Category | Planned | Completed (approx.) |
 |----------|---------:|----------:|
-| Articles | 3,000+ | 0 |
+| Articles | 3,000+ | ~40+ (mostly React Fundamentals/Core Concepts) |
 | Projects | 200+ | 0 |
 | Exercises | 1,000+ | 0 |
 | Cheatsheets | 300+ | 0 |
-| Interview Guides | 500+ | 0 |
+| Interview Guides | 500+ | ~3 JS modules ready (01–03) |
+
+Honest inventory: see [docs/README.md](README.md) and [interview/README.md](../interview/README.md).
 
 ---
 
@@ -393,4 +397,4 @@ A learner completing this curriculum should be able to:
 | Version | 1.0 |
 | Owner | Anmol Tripathi |
 | Status | Active |
-| Last Updated | 2026-07-30 |
+| Last Updated | 2026-08-17 |

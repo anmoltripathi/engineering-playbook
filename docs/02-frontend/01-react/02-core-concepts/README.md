@@ -214,12 +214,14 @@ These skills will prepare you for the next module:
 
 | Previous | Learning Path | Next |
 |-----------|---------------|------|
-| ← React Fundamentals | 🗺 React Learning Path | 00 - Learning Path → |
+| ← [React Fundamentals](../01-react-fundamentals/README.md) | 🗺 [React Learning Path](../00-learning-path.md) | [JSX](01-jsx.md) → |
 
 ---
 
 # Continue Your Journey
 
-Let's begin with the roadmap for this module.
+Start with the first article in this module.
 
-➡ **Next:** [00 - Learning Path](00-learning-path.md)
+➡ **Next:** [01 - JSX](01-jsx.md)
+
+After this module: [React Hooks](../03-hooks/README.md) (Planned)

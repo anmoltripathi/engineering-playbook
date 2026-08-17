@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="assets/logo/logo.svg" alt="Engineering Playbook Logo" width="180">
 </p>
@@ -19,9 +18,9 @@
 
 ---
 
-# 📖 About
+# About
 
-Engineering Playbook (EP) is a comprehensive learning resource designed to help developers grow from beginner to lead engineer.
+**Engineering Playbook (EP)** is a comprehensive learning resource designed to help developers grow from beginner to lead engineer.
 
 Instead of focusing only on interview questions, this repository emphasizes:
 
@@ -34,21 +33,50 @@ Instead of focusing only on interview questions, this repository emphasizes:
 
 ---
 
-# 🎯 Who is this for?
+# Start here
 
-- 🎓 Students
-- 💻 Frontend Developers
-- ⚛️ React Developers
-- 🟦 TypeScript Developers
-- 🏗️ Software Engineers
-- 👨‍💼 Tech Leads
-- 🚀 Job Switchers
+New to EP? Begin with these entry points:
+
+| Guide | Purpose |
+| ----- | ------- |
+| [START_HERE.md](START_HERE.md) | Choose a path by experience and goals |
+| [Docs index](docs/README.md) | Curriculum stages and what’s available now |
+| [Learning Paths](docs/00-LEARNING_PATHS.md) | Detailed journeys (Frontend, Full Stack, Architect, etc.) |
+| [Master Curriculum](docs/00-MASTER_CURRICULUM.md) | Full stage map |
+| [Interview track](interview/README.md) | Interview handbooks |
 
 ---
 
-# 🚀 Learning Paths
+# Available now
 
-## 🌱 Beginner
+These tracks have substantive content today:
+
+| Track | Status | Start |
+| ----- | ------ | ----- |
+| React Fundamentals | Ready | [docs/02-frontend/01-react/01-react-fundamentals](docs/02-frontend/01-react/01-react-fundamentals/README.md) |
+| React Core Concepts | Ready | [docs/02-frontend/01-react/02-core-concepts](docs/02-frontend/01-react/02-core-concepts/README.md) |
+| JavaScript Interview (01–03) | Ready | [interview/javascript](interview/javascript/README.md) |
+| HTML (intro) | Early | [docs/01-fundamentals/01-html](docs/01-fundamentals/01-html/README.md) |
+
+Everything else is **planned**. Empty stage folders are scaffolding—not finished modules.
+
+---
+
+# Who is this for?
+
+- Students
+- Frontend Developers
+- React Developers
+- TypeScript Developers
+- Software Engineers
+- Tech Leads
+- Job Switchers
+
+---
+
+# Learning Paths
+
+## Beginner
 
 - HTML
 - CSS
@@ -57,9 +85,7 @@ Instead of focusing only on interview questions, this repository emphasizes:
 - TypeScript
 - React
 
----
-
-## 💼 Interview Preparation
+## Interview Preparation
 
 - JavaScript
 - TypeScript
@@ -69,9 +95,7 @@ Instead of focusing only on interview questions, this repository emphasizes:
 - Testing
 - System Design
 
----
-
-## 🏗 Senior Engineer
+## Senior Engineer
 
 - Architecture
 - Performance
@@ -80,47 +104,50 @@ Instead of focusing only on interview questions, this repository emphasizes:
 - Production Debugging
 - Leadership
 
----
-
-# 📚 Repository Structure
-
-```
-frontend-engineering-playbook/
-
-docs/
-├── fundamentals/
-├── frontend/
-├── backend/
-├── architecture/
-├── testing/
-├── cloud-devops/
-├── system-design/
-├── production/
-├── interviews/
-├── leadership/
-└── projects/
-
-assets/
-templates/
-examples/
-scripts/
-```
+Full path details: [docs/00-LEARNING_PATHS.md](docs/00-LEARNING_PATHS.md)
 
 ---
 
-# 📂 Topics Covered
+# Repository Structure
 
-## 📘 Fundamentals
+```text
+engineering-playbook/
+├── START_HERE.md
+├── docs/
+│   ├── README.md                 # Docs index
+│   ├── 00-*.md                   # Meta (curriculum, paths, glossary, style)
+│   ├── 01-fundamentals/
+│   ├── 02-frontend/
+│   ├── 03-backend/
+│   ├── 04-architecture/
+│   ├── 05-testing/
+│   ├── 06-cloud-devops/
+│   ├── 07-system-design/
+│   ├── 08-ai-for-engineers/
+│   ├── 09-career/
+│   └── 10-leadership/
+├── interview/                    # Interview handbooks (parallel track)
+├── assets/
+├── templates/
+├── examples/
+└── scripts/
+```
+
+---
+
+# Topics Covered
+
+## Fundamentals
 
 - HTML
 - CSS
 - JavaScript
 - TypeScript
 - Browser Internals
+- HTTP
+- Git
 
----
-
-## ⚛️ Frontend
+## Frontend
 
 - React
 - Angular
@@ -129,77 +156,37 @@ scripts/
 - Routing
 - Forms
 - Performance
+- Accessibility
 
----
-
-## 🔧 Backend
+## Backend
 
 - Node.js
 - FastAPI
 - REST APIs
 - GraphQL
+- Authentication
 
----
+## Architecture & System Design
 
-## 🔒 Authentication & Security
-
-- JWT
-- OAuth
-- Cookies
-- Refresh Tokens
-- RBAC
-
----
-
-## ☁ Cloud & DevOps
-
-- AWS
-- Docker
-- CI/CD
-- GitHub Actions
-
----
-
-## 🧪 Testing
-
-- Jest
-- React Testing Library
-- Cypress
-- Playwright
-
----
-
-## 🏗 System Design
-
+- Design Patterns
 - Frontend Architecture
 - Scalable Applications
-- Design Patterns
 - Micro Frontends
 
----
+## Cloud, Testing & Production
 
-## 🚑 Production Engineering
+- AWS, Docker, CI/CD
+- Jest, RTL, Cypress, Playwright
+- Performance, Debugging, Monitoring
 
-- Performance Optimization
-- Debugging
-- Memory Leaks
-- Error Handling
-- Monitoring
+## Interview Preparation
 
----
-
-## 🎤 Interview Preparation
-
-- HR Questions
-- JavaScript
-- TypeScript
-- React
-- System Design
-- Behavioral Interviews
+- JavaScript (available)
+- TypeScript, React, System Design (planned)
 
 ---
 
-# ⭐ Features
+# Features
 
 - Structured learning paths
 - Real-world examples
@@ -212,13 +199,14 @@ scripts/
 
 ---
 
-# 🗺 Roadmap
+# Roadmap
 
 - [x] Repository Foundation
-- [ ] Documentation Templates
-- [ ] JavaScript Handbook
+- [x] Navigation & honesty (Phase A)
+- [ ] Documentation Templates polish
+- [ ] JavaScript Fundamentals (learn track)
+- [ ] React Hooks module
 - [ ] TypeScript Handbook
-- [ ] React Handbook
 - [ ] Authentication
 - [ ] Testing
 - [ ] AWS
@@ -226,23 +214,25 @@ scripts/
 - [ ] Production Scenarios
 - [ ] Documentation Website
 
+See [ROADMAP.md](ROADMAP.md) for the full plan.
+
 ---
 
-# 🤝 Contributing
+# Contributing
 
 Contributions are welcome.
 
-If you'd like to improve documentation, fix issues, or add examples, please read the **CONTRIBUTING.md** guide before submitting a Pull Request.
+If you'd like to improve documentation, fix issues, or add examples, please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a Pull Request.
 
 ---
 
-# 📄 License
+# License
 
 This project is licensed under the MIT License.
 
 ---
 
-# 👨‍💻 Maintainer
+# Maintainer
 
 **Anmol Tripathi**
 
@@ -255,4 +245,3 @@ Passionate about building scalable frontend applications, mentoring developers, 
 <p align="center">
 ⭐ If this repository helps you, consider giving it a Star!
 </p>
-
